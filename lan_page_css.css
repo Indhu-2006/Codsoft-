@@ -15,8 +15,8 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #1C2541; /* Dark navy bar */
-  color: #FFD700; /* Gold text */
+  background: #1C2541; 
+  color: #FFD700; 
   padding: 15px 50px;
   position: sticky;
   top: 0;
@@ -270,4 +270,5 @@ footer {
     height: 160px;
   }
 }
+
 
